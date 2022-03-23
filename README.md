@@ -1,2 +1,2 @@
 # Learning
-Hshshs
+JS course
